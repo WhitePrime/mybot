@@ -21,13 +21,13 @@ autopic_2: "No Results found for `{}`"
 autopic_3: "Got a Collection `{}` related to your search !\nStarting Autopic !"
 
 # inline
-inline_1: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
+inline_1: "[Sᴜᴘᴘᴏʀᴛ](t.me/ithard)\n\n
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\n
 Pʟᴜɢɪɴs ~ {}**"
-inline_2: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
+inline_2: "[Sᴜᴘᴘᴏʀᴛ](t.me/ithard)\n\n
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\n
 Aᴅᴅᴏɴs ~ {}**"
-inline_3: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
+inline_3: "[Sᴜᴘᴘᴏʀᴛ](t.me/ithard)\n\n
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\n
 Aᴅᴅᴏɴs ~ {}\n\n
 Dᴏ **`.setredis ADDONS True`** ᴀɴᴅ ʀᴇsᴛᴀʀᴛ ᴛᴏ ɢᴇᴛ ᴀᴅᴅᴏɴs.**"
@@ -60,7 +60,7 @@ afk_7: "Currently AFK with reason {}"
 afk_8: "Currently AFK."
 
 # bot
-alive_1: "**The Ultroid Userbot...**\n\n
+alive_1: "**The Userbot...**\n\n
 **{}**\n\n
 ┏━━━━━━━━━━━━━━━━━━━━━\n
 ┣ **Owner** - `{}`\n
