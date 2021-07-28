@@ -16,7 +16,7 @@ from . import *
 
 # --------------------------------------------------------------------#
 telegraph = Telegraph()
-r = telegraph.create_account(short_name="Ultroid")
+r = telegraph.create_account(short_name="White Prime")
 auth_url = r["auth_url"]
 # --------------------------------------------------------------------#
 
@@ -232,7 +232,7 @@ async def _(e):
 @owner
 async def otvaar(event):
     await event.edit(
-        "Other Variables to set for @TheUltroid:",
+        "Other Variables to set:",
         buttons=[
             [
                 Button.inline("Tᴀɢ Lᴏɢɢᴇʀ", data="taglog"),
@@ -889,7 +889,7 @@ async def pmofff(event):
 @owner
 async def chbot(event):
     await event.edit(
-        f"From This Feature U can chat with ppls Via ur Assistant Bot.\n[More info](https://t.me/UltroidUpdates/2)",
+        f"From This Feature U can chat with ppls Via ur Assistant Bot.\n[More info](https://t.me/ithard)",
         buttons=[
             [Button.inline("Cʜᴀᴛ Bᴏᴛ  Oɴ", data="onchbot")],
             [Button.inline("Cʜᴀᴛ Bᴏᴛ  Oғғ", data="ofchbot")],
